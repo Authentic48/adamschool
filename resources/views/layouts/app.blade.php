@@ -18,66 +18,56 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
+    <link rel="manifest" href="site.html">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/fontawesome-all.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/themify-icons.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/slick.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/meanmenu.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/default.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
 </head>
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
-            <div class="container">
-                <a class="navbar-brand" href="{{ url('/') }}">
-                    {{ config('app.name', 'Laravel') }}
-                </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <!-- Left Side Of Navbar -->
-                    <ul class="navbar-nav mr-auto">
-
-                    </ul>
-
-                    <!-- Right Side Of Navbar -->
-                    <ul class="navbar-nav ml-auto">
-                        <!-- Authentication Links -->
-                        @guest
-                            @if (Route::has('login'))
-                                <li class="nav-item">
-                                    <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
-                                </li>
-                            @endif
-                            
-                            @if (Route::has('register'))
-                                <li class="nav-item">
-                                    <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>
-                                </li>
-                            @endif
-                        @else
-                            <li class="nav-item dropdown">
-                                <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
-                                    {{ Auth::user()->name }}
-                                </a>
-
-                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="{{ route('logout') }}"
-                                       onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();">
-                                        {{ __('Logout') }}
-                                    </a>
-
-                                    <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
-                                        @csrf
-                                    </form>
-                                </div>
-                            </li>
-                        @endguest
-                    </ul>
-                </div>
-            </div>
-        </nav>
+        
+        @include('includes.header')
 
         <main class="py-4">
             @yield('content')
         </main>
+
+        @include('includes.footer')
+        
     </div>
+
+    <!-- JS here -->
+    <script src="{{ asset('assets/js/vendor/modernizr-3.5.0.min.js') }}"></script>
+    <script src="{{ asset('assets/js/vendor/jquery-1.12.4.min.js') }}"></script>
+    <script src="{{ asset('assets/js/popper.min.js') }}"></script>
+    <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('assets/js/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('assets/js/isotope.pkgd.min.js') }}"></script>
+    <script src="{{ asset('assets/js/one-page-nav-min.js') }}"></script>
+    <script src="{{ asset('assets/js/slick.min.js') }}"></script>
+    <script src="{{ asset('assets/js/ajax-form.js') }}"></script>
+    <script src="{{ asset('assets/js/wow.min.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.meanmenu.min.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.scrollUp.min.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.barfiller.js') }}"></script>
+    <script src="{{ asset('assets/js/imagesloaded.pkgd.min.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.counterup.min.js') }}"></script>
+    <script src="{{ asset('assets/js/waypoints.min.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.magnific-popup.min.js') }}"></script>
+    <script src="{{ asset('assets/js/plugins.js') }}"></script>
+    <script src="{{ asset('assets/js/main.js') }}"></script>
 </body>
 </html>
