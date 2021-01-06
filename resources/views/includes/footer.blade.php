@@ -31,12 +31,12 @@
                             </div>
                             <div class="footer-menu clearfix">
                                 <ul>
-                                    <li><a href="#">Процесс</a></li>
-                                    <li><a href="#">Курсы</a></li>
-                                    <li><a href="#">Стоимость</a></li>
-                                    <li><a href="#">Преподаватели</a></li>
-                                    <li><a href="#">Партнерская программа</a></li>
-                                    <li><a href="#">Отзывы</a></li>
+                                    <li><a href="{{ route('welcome') }}">Процесс</a></li>
+                                    <li><a href="{{ route('courses') }}">Курсы</a></li>
+                                    <li><a href="{{ route('pricing') }}">Цены</a></li>
+                                    <li><a href="{{ route('team') }}">Преподаватели</a></li>
+                                    <li><a href="{{ route('partnership') }}">Партнерская программа</a></li>
+                                    <li><a href="{{ route('reviews') }}">Отзывы</a></li>
                                 </ul>
                             </div>
                         </div>

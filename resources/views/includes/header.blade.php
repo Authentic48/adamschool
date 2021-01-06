@@ -50,16 +50,16 @@
                             <nav id="mobile-menu" style="display: block;">
                                 <ul>
                                     <li>
-                                        <a href="#home">ГЛАВНАЯ </a>
+                                        <a href="{{ route('welcome') }}">ГЛАВНАЯ </a>
                                     </li>
                                     <li>
-                                        <a href="#home">О НАС</a>
+                                        <a href="{{ route('about') }}">О НАС</a>
                                     </li>
                                     <li>
-                                        <a href="#home">КУРСЫ</a>
+                                        <a href="{{ route('courses') }}">КУРСЫ</a>
                                     </li>
                                     <li>
-                                        <a href="#home">КОНТАКТЫ</a>
+                                        <a href="{{ route('pricing') }}">ЦЕНЫ</a>
                                     </li>
                                 </ul>
                             </nav>
