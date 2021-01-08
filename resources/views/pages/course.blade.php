@@ -109,7 +109,54 @@
                             <div class="courses-content">
                                 <div class="courses-category-name">
                                     <span>
-                                        <a href="#">Aнглийский</a>
+                                        <a href="#">французский язык</a>
+                                    </span>
+                                </div>
+                                <div class="courses-heading">
+                                    <h1>Занятия в группах</h1>
+                                </div>
+                                <div class="courses-para">
+                                    <p>Любые индивидуальные программы для ваших целей.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="courses-wrapper course-radius-none mb-30">
+                        <div class="courses-thumb">
+                           <img src="{{ asset('assets/img/courses/single_courses_thumb_02.jpg')}}" alt="">
+                        </div>
+                        <div class="course-main-content clearfix">
+                            <div class="courses-content">
+                                <div class="courses-category-name">
+                                    <span>
+                                        <a href="#">французский язык</a>
+                                    </span>
+                                </div>
+                                <div class="courses-heading">
+                                    <h1>Подготовка к TFI/DALF/DELF</h1>
+                                </div>
+                                <div class="courses-para">
+                                    <p>Подготовка к сдаче международных экзаменов на самый высокий бал.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="courses-wrapper course-radius-none mb-30">
+                        <div class="courses-thumb">
+                           <img src="{{ asset('assets/img/courses/single_courses_thumb_03.jpg')}}" alt="">
+                        </div>
+                        <div class="course-main-content clearfix">
+                            <div class="courses-content">
+                                <div class="courses-category-name">
+                                    <span>
+                                        <a href="#">французский язык</a>
                                     </span>
                                 </div>
                                 <div class="courses-heading">
