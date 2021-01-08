@@ -13,7 +13,7 @@
                                 <p>Sorem ipsum dolor sit amet conse ctetur adipiscing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua.</p>
                             </div>
                             <div class="footer-socila-icon">
-                                <span>Follow Us</span>
+                                <span>Мы в социальных сетях</span>
                                 <div class="footer-social-icon-list">
                                     <ul>
                                         <li><a href="#"><span class="ti-google"></span></a></li>
@@ -31,7 +31,7 @@
                             </div>
                             <div class="footer-menu clearfix">
                                 <ul>
-                                    <li><a href="{{ route('welcome') }}">Процесс</a></li>
+                                    <li><a href="{{ route('process') }}">Процесс</a></li>
                                     <li><a href="{{ route('courses') }}">Курсы</a></li>
                                     <li><a href="{{ route('pricing') }}">Цены</a></li>
                                     <li><a href="{{ route('team') }}">Преподаватели</a></li>
@@ -44,7 +44,7 @@
                     <div class="col-xl-4 col-lg-4  col-md-6">
                         <div class="footer-widget mb-30">
                             <div class="footer-heading">
-                                <h1>Contact Us</h1>
+                                <h1>Kонтакты</h1>
                             </div>
                             <div class="footer-contact-list">
                                 <div class="single-footer-contact-info">
@@ -63,7 +63,7 @@
                             <div class="opening-time">
                                 <span>Режим работы</span>
                                 <span class="opening-date">
-                                    Mn - Sun : 10:00 - 05:00
+                                    Mч - Вс : 10:00 - 22:00
                                 </span>
                             </div>
                         </div>

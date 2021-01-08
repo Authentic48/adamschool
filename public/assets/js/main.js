@@ -45,8 +45,8 @@
             dots: true,
             fade: true,
             arrows: true,
-            prevArrow: "<button type='button' class='slick-prev pull-left'>prev</button>",
-            nextArrow: "<button type='button' class='slick-next pull-right'>next</button>",
+            prevArrow: "<button type='button' class='slick-prev pull-left'>пред</button>",
+            nextArrow: "<button type='button' class='slick-next pull-right'>след</button>",
             responsive: [
                 { breakpoint: 767, settings: { dots: false, arrows: false } }
             ]
@@ -119,8 +119,8 @@
     $('.courses-active').slick({
         dots: false,
         arrows: true,
-        prevArrow: "<button type='button' class='slick-prev pull-left'>prev</button>",
-        nextArrow: "<button type='button' class='slick-next pull-right'>next</button>",
+        prevArrow: "<button type='button' class='slick-prev pull-left'>пред</button>",
+        nextArrow: "<button type='button' class='slick-next pull-right'>след</button>",
         infinite: true,
         speed: 600,
         slidesToShow: 3,

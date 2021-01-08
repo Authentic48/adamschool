@@ -12,7 +12,7 @@
                             <h1 class="white-color f-700">О НАС </h1>
                             <nav class="text-center" aria-label="breadcrumb">
                                 <ol class="breadcrumb justify-content-center">
-                                    <li class="breadcrumb-item"><a href="#">ГЛАВНАЯ </a></li>
+                                    <li class="breadcrumb-item"><a href="/">ГЛАВНАЯ </a></li>
                                     <li class="breadcrumb-item active" aria-current="page">О НАС </li>
                                 </ol>
                             </nav>
