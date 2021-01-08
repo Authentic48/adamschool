@@ -31,7 +31,7 @@
                             </div>
                             <div class="footer-menu clearfix">
                                 <ul>
-                                    <li><a href="{{ route('process') }}">Процесс</a></li>
+                                    <li><a href="{{ route('process') }}">Вопрос-ответ</a></li>
                                     <li><a href="{{ route('courses') }}">Курсы</a></li>
                                     <li><a href="{{ route('pricing') }}">Цены</a></li>
                                     <li><a href="{{ route('team') }}">Преподаватели</a></li>
