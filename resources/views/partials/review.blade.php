@@ -5,10 +5,10 @@
             <div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                 <div class="section-title mb-50 text-center">
                     <div class="section-title-heading mb-20">
-                        <h1 class="primary-color">What Our Students Say</h1>
+                        <h1 class="primary-color">Отзывы наших учеников</h1>
                     </div>
                     <div class="section-title-para">
-                        <p class="gray-color">Belis nisl adipiscing sapien sed malesu diame lacus eget erat Cras mollis scelerisqu Nullam arcu liquam here was consequat.</p>
+                        <p class="gray-color">Истории успешного изучения</p>
                     </div>
                 </div>
             </div>

@@ -36,9 +36,8 @@
                 <div class="row align-items-center">
                     <div class="col-xl-2 col-lg-2 col-md-6 col-6">
                         <div class="logo">
-                            <a href="index.html">
-                                <img src="img/logo/logo.png" alt="">
-                                AdamSchool
+                            <a href="/">
+                                <img src="{{ asset('assets/img/logo/logo.png')}}" alt="">
                             </a>
                         </div>
                     </div>
