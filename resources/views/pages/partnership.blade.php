@@ -24,6 +24,25 @@
     </div>
 </div>
 <!-- slider-end -->
-Belis nisl adipiscing sapien sed malesu diame lacus eget erat Cras mollis scelerisqu Nullam arcu liquam here was consequat.
+<div class="fag-area pt-100 pb-70 mb-">
+    <div class="container">
+        <div class="faq-list">
+            <div class="row">
+                <div class="col-xl-8 col-lg-10 col-md-12">
+                    <div class="faq-area-title mb-35">
+                        <h2 class="mb-15">Партнерская программа</h2>
+                        <p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happi nesso one rejects. </p>
+                    </div>
+                    <div class="faq-area-title mb-35">
+                        <p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happi nesso one rejects. </p>
+                    </div>
+                    <div class="faq-area-title mb-35">
+                        <p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happi nesso one rejects. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 @endsection

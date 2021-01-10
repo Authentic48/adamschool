@@ -19,7 +19,7 @@ Route::get('/pricing', [App\Http\Controllers\PageController::class, 'pricing'])-
 Route::get('/courses', [App\Http\Controllers\PageController::class, 'courses'])->name('courses');
 Route::get('/team', [App\Http\Controllers\PageController::class, 'team'])->name('team');
 Route::get('/reviews', [App\Http\Controllers\PageController::class, 'reviews'])->name('reviews');
-Route::get('/process', [App\Http\Controllers\PageController::class, 'process'])->name('process');
+Route::get('/qa', [App\Http\Controllers\PageController::class, 'process'])->name('process');
 Route::get('/partnership', [App\Http\Controllers\PageController::class, 'partnership'])->name('partnership');
 
 Auth::routes();
