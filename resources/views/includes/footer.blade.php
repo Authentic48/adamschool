@@ -53,7 +53,7 @@
                                 </div>
                                 <div class="single-footer-contact-info">
                                     <span class="ti-email "></span>
-                                    <span class="footer-contact-list-text">info@adamschool.com</span>
+                                    <span class="footer-contact-list-text">info@adamschool.net</span>
                                 </div>
                                 <div class="single-footer-contact-info">
                                     <span class="ti-location-pin"></span>

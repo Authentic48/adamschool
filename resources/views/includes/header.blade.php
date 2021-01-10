@@ -13,7 +13,7 @@
                             </div>
                             <div class="header-contact header-contact-email">
                                 <span class="ti-email"></span>
-                                <p class="email-name">info@adamschool.com</p>
+                                <p class="email-name">info@adamschool.net</p>
                             </div>
                         </div>
                     </div>
