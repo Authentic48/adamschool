@@ -17,8 +17,8 @@
                                 <div class="footer-social-icon-list">
                                     <ul>
                                         <li><a href="#"><span class="ti-google"></span></a></li>
-                                        <li><a href="#"><span class="ti-vimeo-alt"></span></a></li>
-                                        <li><a href="#"><span class="ti-instagram"></span></a></li>
+                                        <li><a href="https://vk.com/public185083170"><span class="ti-vimeo-alt"></span></a></li>
+                                        <li><a href="https://www.instagram.com/adamschool.krsk/"><span class="ti-instagram"></span></a></li>
                                     </ul>
                                 </div>
                             </div>
