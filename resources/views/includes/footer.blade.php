@@ -63,7 +63,7 @@
                             <div class="opening-time">
                                 <span>Режим работы</span>
                                 <span class="opening-date">
-                                    Mч - Вс : 10:00 - 22:00
+                                    Mч - Вс : 8:00 - 21:00
                                 </span>
                             </div>
                         </div>
