@@ -23,11 +23,11 @@
                             </div>
                             <div class="testimonilas-author-title">
                                 <h1>Lisa McClanahan</h1>
-                                <h2>CSE Student</h2>
+                                <h2>Student</h2>
                             </div>
                         </div>
                         <div class="testimonilas-para">
-                            <p>But also the leap into electronic type reman see essentially unchanged. It was popul arised thew with the release of letraset sheets.</p>
+                            <p>Спасибо вам за сегодняшнее занятие, ребёнку и нам очень понравилось. Эльвира очень довольна, весь день о вас говорит. И нам понравился стиль преподавания. Надеемся на дальнейшее совместное сотрудничество</p>
                         </div>
                         <div class="testimonilas-rating">
                             <ul>
@@ -47,12 +47,12 @@
                                 <img src="assets/img/testimonials/testimonilas_author_thumb1.png" alt="">
                             </div>
                             <div class="testimonilas-author-title">
-                                <h1>Lisa McClanahan</h1>
-                                <h2>CSE Student</h2>
+                                <h1>Саша</h1>
+                                <h2>Cтудент</h2>
                             </div>
                         </div>
                         <div class="testimonilas-para">
-                            <p>But also the leap into electronic type reman see essentially unchanged. It was popul arised thew with the release of letraset sheets.</p>
+                            <p>Самая крутая школа для изучения английского! Очень понравится сам формат обучения. Информация дается очень ясно и понятно.</p>
                         </div>
                         <div class="testimonilas-rating">
                             <ul>
