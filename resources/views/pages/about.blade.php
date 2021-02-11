@@ -29,22 +29,20 @@
 <div id="about" class="about-area pt-100 pb-70">
     <div class="container">
         <div class="row">
-            <div class="col-xl-7 col-lg-7">
+            <div class="col-xl-12 col-lg-12">
                 <div class="about-img mb-55">
                     <img src="{{ asset('assets/img/about/about_details_left_img.jpg')}}" alt="">
                 </div>
                 <div class="about-title-section about-title-section-2 mb-30">
-                    <h1>Who We Are</h1>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad miniveniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea consequatur? Quis autem vel eum iure reprehenderit.</p>
-                </div>
-            </div>
-            <div class="col-xl-5 col-lg-5">
-                <div class="about-img mb-55">
-                    <img src="{{ asset('assets/img/about/about_details_right_img.jpg') }}" alt="">
-                </div>
-                <div class="about-title-section about-title-section-2 mb-30">
-                    <h1>Our MIssion Vission</h1>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptat accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit.</p>
+                    <h1>Добро пожаловать в AdamSchool </h1>
+                    <p>Школа AdamSchool преподаёт английский  и французский язык.
+                        Опыт работы 4 года,более 300 успешных учеников.
+                        Для Вас преподают профессионалы и носители языка из зарубежных стран.
+                        Проводятся занятия:
+                        В режиме Онлайн на платформе zoom или Skype 👨🏼‍💻👩🏽‍💻У вас на дому🏘В учебной аудитории Преподавателя 🏠 
+                        Стоимость занятий начинается от 700 рублей.
+                        
+                        P.s. Если у вас огромное  желание и вы очень активны в изучении языка,вполне достаточно 6 месяцев,для изучения,чтобы за границей иностранцы приняли вас за своих!</p>
                 </div>
             </div>
         </div>
@@ -80,7 +78,7 @@
             <div class="col-xl-4 col-lg-4 col-md-3">
                 <div class="couter-wrapper couter-wrapper-2 mb-30 text-center">
                     <img src="{{ asset('assets/img/counter/counter_icon4.png')}}" alt="">
-                    <span class="counter">4</span>
+                    <span class="counter">3</span>
                     <h3>Опыт работы</h3>
                 </div>
             </div>
