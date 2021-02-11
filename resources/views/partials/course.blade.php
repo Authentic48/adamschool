@@ -8,7 +8,7 @@
                         <h1 class="white-color">Hаши курсы</h1>
                     </div>
                     <div class="section-title-para">
-                        <p class="white-color">Belis nisl adipiscing sapien sed malesu diame lacus eget erat Cras mollis scelerisqu Nullam arcu liquam here was consequat.</p>
+                        <p class="white-color">Здесь вы можете найти подходящий для себя курс и записаться на занятие.</p>
                     </div>
                 </div>
             </div>

@@ -17,21 +17,11 @@ class PageController extends Controller
         return view('pages.about');
     }
 
-
     public function courses()
     {
         return view('pages.course');
     }
 
-    public function process()
-    {
-        return view('pages.how');
-    }
-
-    public function pricing()
-    {
-        return view('pages.pricing');
-    }
 
     public function team()
     {

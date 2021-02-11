@@ -31,18 +31,17 @@
                 <div class="col-xl-8 col-lg-10 col-md-12">
                     <div class="faq-area-title mb-35">
                         <h2 class="mb-15">Партнерская программа</h2>
-                        <p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happi nesso one rejects. </p>
+                        <p>Уже в течении 4-х лет мы заключаем и продлеваем контракты со школами,детскими садами и лицеями с целью преподавания.</p>
                     </div>
                     <div class="faq-area-title mb-35">
-                        <p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happi nesso one rejects. </p>
-                    </div>
-                    <div class="faq-area-title mb-35">
-                        <p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happi nesso one rejects. </p>
+                        <p>Так же будем рады сотрудничеству  с другим учебными организациями.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
+@include('partials.teacher')
 
 @endsection

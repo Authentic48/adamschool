@@ -10,13 +10,12 @@
                                 <img src="{{ asset('assets/img/logo/logo1.png')}}" alt="">
                             </div>
                             <div class="footer-para">
-                                <p>Sorem ipsum dolor sit amet conse ctetur adipiscing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua.</p>
+                                <p>Школа AdamSchool преподаёт английский и французский язык. Опыт работы 4 года,более 300 успешных учеников</p>
                             </div>
                             <div class="footer-socila-icon">
                                 <span>Мы в социальных сетях</span>
                                 <div class="footer-social-icon-list">
                                     <ul>
-                                        <li><a href="#"><span class="ti-google"></span></a></li>
                                         <li><a href="https://vk.com/public185083170"><span class="ti-vimeo-alt"></span></a></li>
                                         <li><a href="https://www.instagram.com/adamschool.krsk/"><span class="ti-instagram"></span></a></li>
                                     </ul>
@@ -31,9 +30,7 @@
                             </div>
                             <div class="footer-menu clearfix">
                                 <ul>
-                                    <li><a href="{{ route('process') }}">Вопрос-ответ</a></li>
                                     <li><a href="{{ route('courses') }}">Курсы</a></li>
-                                    <li><a href="{{ route('pricing') }}">Цены</a></li>
                                     <li><a href="{{ route('team') }}">Преподаватели</a></li>
                                     <li><a href="{{ route('partnership') }}">Партнерская программа</a></li>
                                     <li><a href="{{ route('reviews') }}">Отзывы</a></li>
@@ -57,7 +54,7 @@
                                 </div>
                                 <div class="single-footer-contact-info">
                                     <span class="ti-location-pin"></span>
-                                    <span class="footer-contact-list-text">6th Floor, Krasnoyarsk</span>
+                                    <span class="footer-contact-list-text">Krasnoyarsk</span>
                                 </div>
                             </div>
                             <div class="opening-time">
