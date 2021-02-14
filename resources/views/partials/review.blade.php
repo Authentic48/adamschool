@@ -41,7 +41,7 @@
                     <div class="testimonilas-wrapper">
                         <div class="testimonilas-heading d-flex">
                             <div class="testimonilas-author-title">
-                                <h1>Саша</h1>
+                                <h1>Александра</h1>
                                 <h2>Cтудент</h2>
                             </div>
                         </div>
@@ -62,8 +62,9 @@
                 <div class="col-xl-12">
                     <div class="testimonilas-wrapper">
                         <div class="testimonilas-heading d-flex">
+
                             <div class="testimonilas-author-title">
-                                <h1>Даша</h1>
+                                <h1>Дарья</h1>
                                 <h2>Cтудент</h2>
                             </div>
                         </div>

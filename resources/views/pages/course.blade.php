@@ -34,7 +34,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                           <img src="{{ asset('assets/img/courses/single_courses_thumb_01.jpg')}}" alt="">
+                           <img src="{{ asset('assets/img/adam.jpeg')}}" alt="">
                         </div>
                         <div class="course-main-content clearfix">
                             <div class="courses-content">
@@ -57,7 +57,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                           <img src="{{ asset('assets/img/courses/single_courses_thumb_02.jpg')}}" alt="">
+                           <img src="{{ asset('assets/img/adam3.jpeg')}}" alt="">
                         </div>
                         <div class="course-main-content clearfix">
                             <div class="courses-content">
@@ -80,7 +80,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                           <img src="{{ asset('assets/img/courses/single_courses_thumb_03.jpg')}}" alt="">
+                           <img src="{{ asset('assets/img/ibrahim2.jpeg')}}" alt="">
                         </div>
                         <div class="course-main-content clearfix">
                             <div class="courses-content">
@@ -103,7 +103,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                           <img src="{{ asset('assets/img/courses/single_courses_thumb_03.jpg')}}" alt="">
+                           <img src="{{ asset('assets/img/adam5.jpeg')}}" alt="">
                         </div>
                         <div class="course-main-content clearfix">
                             <div class="courses-content">
@@ -127,7 +127,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                           <img src="{{ asset('assets/img/courses/single_courses_thumb_02.jpg')}}" alt="">
+                           <img src="{{ asset('assets/img/adam1.jpeg')}}" alt="">
                         </div>
                         <div class="course-main-content clearfix">
                             <div class="courses-content">
@@ -150,7 +150,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                           <img src="{{ asset('assets/img/courses/single_courses_thumb_03.jpg')}}" alt="">
+                           <img src="{{ asset('assets/img/adam.jpeg')}}" alt="">
                         </div>
                         <div class="course-main-content clearfix">
                             <div class="courses-content">

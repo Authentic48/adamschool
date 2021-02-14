@@ -27,7 +27,7 @@
                             <div class="courses-content">
                                 <div class="courses-category-name">
                                     <span>
-                                        <a href="#">Анг/франц</a>
+                                        <a href="#">Английский/французский</a>
                                     </span>
                                 </div>
                                 <div class="courses-heading">
@@ -44,9 +44,6 @@
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
                             <img src="assets/img/adam3.jpeg" alt="">
-                        </div>
-                        <div class="courses-author">
-                            <img src="img/courses/coursesauthor1.png" alt="">
                         </div>
                         <div class="course-main-content clearfix">
                             <div class="courses-content">
@@ -77,7 +74,7 @@
                             <div class="courses-content">
                                 <div class="courses-category-name">
                                     <span>
-                                        <a href="#">Анг/франц</a>
+                                        <a href="#">Английский/французский</a>
                                     </span>
                                 </div>
                                 <div class="courses-heading">
@@ -102,7 +99,7 @@
                             <div class="courses-content">
                                 <div class="courses-category-name">
                                     <span>
-                                        <a href="#">Анг/франц</a>
+                                        <a href="#">Английский/французский</a>
                                     </span>
                                 </div>
                                 <div class="courses-heading">
@@ -127,7 +124,7 @@
                             <div class="courses-content">
                                 <div class="courses-category-name">
                                     <span>
-                                        <a href="#">Анг/франц</a>
+                                        <a href="#">Английский/французский</a>
                                     </span>
                                 </div>
                                 <div class="courses-heading">
