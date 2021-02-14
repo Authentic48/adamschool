@@ -71,7 +71,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="footer-copyright text-center">
-                                <span><a target="_blank" href="#">EliteTech Group</a></span>
+                                 powered by<span><a target="_blank" href="#">EliteTech Group</a></span>
                             </div>
                         </div>
                     </div>
