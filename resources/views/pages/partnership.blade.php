@@ -42,6 +42,6 @@
     </div>
 </div>
 
-@include('partials.teacher')
+
 
 @endsection

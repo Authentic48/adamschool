@@ -8,8 +8,6 @@
 
   @include('partials.course')
 
-  @include('partials.teacher')
-
   @include('partials.review')
 
 @endsection

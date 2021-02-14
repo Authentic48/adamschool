@@ -24,7 +24,5 @@
     </div>
 </div>
 <!-- slider-end -->
-
-@include('partials.teacher')
     
 @endsection

@@ -18,7 +18,7 @@
                 <div class="col-xl-12">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                            <img src="assets/img/courses/single_courses_thumb_01.jpg" alt="">
+                            <img src="assets/img/adam.jpeg" alt="">
                         </div>
                         <div class="courses-author">
                             <img src="img/courses/coursesauthor1.png" alt="">
@@ -27,7 +27,7 @@
                             <div class="courses-content">
                                 <div class="courses-category-name">
                                     <span>
-                                        <a href="#">Aнглийский</a>
+                                        <a href="#">Анг/франц</a>
                                     </span>
                                 </div>
                                 <div class="courses-heading">
@@ -43,7 +43,7 @@
                 <div class="col-xl-12">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                            <img src="assets/img/courses/single_courses_thumb_02.jpg" alt="">
+                            <img src="assets/img/adam3.jpeg" alt="">
                         </div>
                         <div class="courses-author">
                             <img src="img/courses/coursesauthor1.png" alt="">
@@ -68,7 +68,7 @@
                 <div class="col-xl-12">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                            <img src="assets/img/courses/single_courses_thumb_03.jpg" alt="">
+                            <img src="assets/img/ibrahim2.jpeg" alt="">
                         </div>
                         <div class="courses-author">
                             <img src="img/courses/coursesauthor1.png" alt="">
@@ -77,7 +77,7 @@
                             <div class="courses-content">
                                 <div class="courses-category-name">
                                     <span>
-                                        <a href="#">Aнглийский</a>
+                                        <a href="#">Анг/франц</a>
                                     </span>
                                 </div>
                                 <div class="courses-heading">
@@ -93,7 +93,7 @@
                 <div class="col-xl-12">
                     <div class="courses-wrapper course-radius-none mb-30">
                         <div class="courses-thumb">
-                            <img src="assets/img/courses/single_courses_thumb_04.jpg" alt="">
+                            <img src="assets/img/adam5.jpeg" alt="">
                         </div>
                         <div class="courses-author">
                             <img src="img/courses/coursesauthor1.png" alt="">
@@ -102,7 +102,7 @@
                             <div class="courses-content">
                                 <div class="courses-category-name">
                                     <span>
-                                        <a href="#">Aнглийский</a>
+                                        <a href="#">Анг/франц</a>
                                     </span>
                                 </div>
                                 <div class="courses-heading">
@@ -110,6 +110,31 @@
                                 </div>
                                 <div class="courses-para">
                                     <p>Более 3 лет опыта работы</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-12">
+                    <div class="courses-wrapper course-radius-none mb-30">
+                        <div class="courses-thumb">
+                            <img src="assets/img/adam1.jpeg" alt="">
+                        </div>
+                        <div class="courses-author">
+                            <img src="img/courses/coursesauthor1.png" alt="">
+                        </div>
+                        <div class="course-main-content clearfix">
+                            <div class="courses-content">
+                                <div class="courses-category-name">
+                                    <span>
+                                        <a href="#">Анг/франц</a>
+                                    </span>
+                                </div>
+                                <div class="courses-heading">
+                                    <h1>Языковой клуб</h1>
+                                </div>
+                                <div class="courses-para">
+                                    <p>Будем знакомиться, общаться и практиковать разговорную речь</p>
                                 </div>
                             </div>
                         </div>

@@ -18,12 +18,9 @@
                 <div class="col-xl-12">
                     <div class="testimonilas-wrapper mb-110">
                         <div class="testimonilas-heading d-flex">
-                            <div class="testimonilas-author-thumb">
-                                <img src="assets/img/testimonials/testimonilas_author_thumb1.png" alt="">
-                            </div>
                             <div class="testimonilas-author-title">
-                                <h1>Lisa McClanahan</h1>
-                                <h2>Student</h2>
+                                <h1>Светлана</h1>
+                                <h2></h2>
                             </div>
                         </div>
                         <div class="testimonilas-para">
@@ -43,9 +40,6 @@
                 <div class="col-xl-12">
                     <div class="testimonilas-wrapper">
                         <div class="testimonilas-heading d-flex">
-                            <div class="testimonilas-author-thumb">
-                                <img src="assets/img/testimonials/testimonilas_author_thumb1.png" alt="">
-                            </div>
                             <div class="testimonilas-author-title">
                                 <h1>Саша</h1>
                                 <h2>Cтудент</h2>
@@ -68,16 +62,13 @@
                 <div class="col-xl-12">
                     <div class="testimonilas-wrapper">
                         <div class="testimonilas-heading d-flex">
-                            <div class="testimonilas-author-thumb">
-                                <img src="assets/img/testimonials/testimonilas_author_thumb2.png" alt="">
-                            </div>
                             <div class="testimonilas-author-title">
-                                <h1>Trevor J. Angelo</h1>
-                                <h2>Englisg Student</h2>
+                                <h1>Даша</h1>
+                                <h2>Cтудент</h2>
                             </div>
                         </div>
                         <div class="testimonilas-para">
-                            <p>But also the leap into electronic type reman see essentially unchanged. It was popul arised thew with the release of letraset sheets.</p>
+                            <p>Очень интересная методика преподавания. Каждое проведённое занятие было полезно. Мне всё понравилось! 😊Теперь смотрю на английский язык по-другому.</p>
                         </div>
                         <div class="testimonilas-rating">
                             <ul>
@@ -93,16 +84,13 @@
                 <div class="col-xl-12">
                     <div class="testimonilas-wrapper">
                         <div class="testimonilas-heading d-flex">
-                            <div class="testimonilas-author-thumb">
-                                <img src="assets/img/testimonials/testimonilas_author_thumb1.png" alt="">
-                            </div>
                             <div class="testimonilas-author-title">
-                                <h1>Marquita Brown</h1>
-                                <h2>CSE Student</h2>
+                                <h1>Анастасия</h1>
+                                <h2></h2>
                             </div>
                         </div>
                         <div class="testimonilas-para">
-                            <p>But also the leap into electronic type reman see essentially unchanged. It was popul arised thew with the release of letraset sheets.</p>
+                            <p>После двух месяцев занятий мой ребёнок узнал много новых слов, научился строить предложения, задавать вопросы и отвечать на них. Самым главным достижением я считаю то, что он начал преодолевать боязнь при разговоре на английском языке. Раньше он боялся произносить даже те слова, которые хорошо знал.</p>
                         </div>
                         <div class="testimonilas-rating">
                             <ul>

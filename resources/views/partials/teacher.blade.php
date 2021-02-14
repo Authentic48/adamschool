@@ -15,11 +15,11 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="team-wrapper mb-30">
                         <div class="team-thumb">
-                            <img src="assets/img/team/teammember1.jpg" alt="">
+                            <img src="assets/img/rsz2.jpg" alt="">
                         </div>
                         <div class="team-teacher-info text-center">
-                            <h1>Adam</h1>
-                            <h2>Founder</h2>
+                            <h1>Адам</h1>
+                    
                         </div>
                     </div>
                 </div>
@@ -29,19 +29,17 @@
                             <img src="assets/img/team/teammember2.jpg" alt="">
                         </div>
                         <div class="team-teacher-info text-center">
-                            <h1>Maria</h1>
-                            <h2>Manager</h2>
+                            <h1>Мария</h1>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="team-wrapper mb-30">
                         <div class="team-thumb">
-                            <img src="assets/img/team/teammember3.jpg" alt="">
+                            <img src="assets/img/ibrahim.jpeg" alt="">
                         </div>
                         <div class="team-teacher-info text-center">
-                            <h1>Ibrahim</h1>
-                            <h2>Co-founder</h2>
+                            <h1>Ибрагим</h1>
                         </div>
                     </div>
                 </div>

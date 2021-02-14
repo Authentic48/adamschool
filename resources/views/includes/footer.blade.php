@@ -7,7 +7,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="footer-widget mb-30">
                             <div class="footer-logo">
-                                <img src="{{ asset('assets/img/logo/logo1.png')}}" alt="">
+                                <img src="{{ asset('assets/img/logo1.png')}}" alt="">
                             </div>
                             <div class="footer-para">
                                 <p>Школа AdamSchool преподаёт английский и французский язык. Опыт работы 4 года,более 300 успешных учеников</p>
@@ -31,7 +31,6 @@
                             <div class="footer-menu clearfix">
                                 <ul>
                                     <li><a href="{{ route('courses') }}">Курсы</a></li>
-                                    <li><a href="{{ route('team') }}">Преподаватели</a></li>
                                     <li><a href="{{ route('partnership') }}">Партнерская программа</a></li>
                                     <li><a href="{{ route('reviews') }}">Отзывы</a></li>
                                 </ul>
@@ -60,7 +59,7 @@
                             <div class="opening-time">
                                 <span>Режим работы</span>
                                 <span class="opening-date">
-                                    Mч - Вс : 8:00 - 21:00
+                                    Пн - Вс : 8:00 - 21:00
                                 </span>
                             </div>
                         </div>
