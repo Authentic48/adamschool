@@ -1,6 +1,6 @@
 ### Adamschool
 
-Admaschool is a static website that I built using laravel for my one my client. 
+Admaschool is a static school website that I built using laravel for my one my client. 
 
 The frontend part of this app was an open source template that I customized for my own need.
 
