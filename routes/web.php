@@ -19,6 +19,8 @@ Route::get('/courses', [App\Http\Controllers\PageController::class, 'courses'])-
 Route::get('/team', [App\Http\Controllers\PageController::class, 'team'])->name('team');
 Route::get('/reviews', [App\Http\Controllers\PageController::class, 'reviews'])->name('reviews');
 Route::get('/partnership', [App\Http\Controllers\PageController::class, 'partnership'])->name('partnership');
+Route::get('/tests', [App\Http\Controllers\PageController::class, 'tests'])->name('tests');
+
 
 Auth::routes();
 

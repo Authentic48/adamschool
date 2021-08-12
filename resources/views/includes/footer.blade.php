@@ -33,6 +33,7 @@
                                     <li><a href="{{ route('courses') }}">Курсы</a></li>
                                     <li><a href="{{ route('partnership') }}">Партнерская программа</a></li>
                                     <li><a href="{{ route('reviews') }}">Отзывы</a></li>
+                                    <li><a href="{{ route('tests') }}">Tесты</a></li>
                                 </ul>
                             </div>
                         </div>

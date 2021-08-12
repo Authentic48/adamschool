@@ -37,4 +37,9 @@ class PageController extends Controller
     {
         return view('pages.review');
     }
+
+    public function tests()
+    {
+        return view('pages.test');
+    }
 }
