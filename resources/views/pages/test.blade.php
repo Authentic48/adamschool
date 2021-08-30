@@ -55,7 +55,7 @@
                                     <h1>Beginner</h1>
                                 </div>
                                 <div class="courses-para">
-                                    <p>нажмите, чтобы пройти <a href="#">тест</a></p>
+                                    <p>нажмите, чтобы пройти <a href="https://docs.google.com/forms/d/e/1FAIpQLSdp6GxfuQ2hO3zzFh90WfW0uSteDRXUuzVmO1BFT8RHco0V6w/viewform">тест</a></p>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                                     <h1>Elementary</h1>
                                 </div>
                                 <div class="courses-para">
-                                    <p>нажмите, чтобы пройти <a href="#">тест</a></p>
+                                    <p>нажмите, чтобы пройти <a href="https://docs.google.com/forms/d/e/1FAIpQLSdp6GxfuQ2hO3zzFh90WfW0uSteDRXUuzVmO1BFT8RHco0V6w/viewform">тест</a></p>
                                 </div>
                             </div>
                         </div>
@@ -96,7 +96,7 @@
                                     <h1>Pre-intermediate</h1>
                                 </div>
                                 <div class="courses-para">
-                                    <p>нажмите, чтобы пройти <a href="#">тест</a> </p>
+                                    <p>нажмите, чтобы пройти <a href="https://docs.google.com/forms/d/e/1FAIpQLSdp6GxfuQ2hO3zzFh90WfW0uSteDRXUuzVmO1BFT8RHco0V6w/viewform">тест</a> </p>
                                 </div>
                             </div>
                         </div>
@@ -115,45 +115,7 @@
                                     <h1>Intermediate</h1>
                                 </div>
                                 <div class="courses-para">
-                                    <p>нажмите, чтобы пройти <a href="#">тест</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-12">
-                    <div class="courses-wrapper course-radius-none mb-30">
-                        <div class="course-main-content clearfix">
-                            <div class="courses-content">
-                                <div class="courses-category-name">
-                                    <span>
-                                        <a href="#">Английский</a>
-                                    </span>
-                                </div>
-                                <div class="courses-heading">
-                                    <h1>Intermediate Plus</h1>
-                                </div>
-                                <div class="courses-para">
-                                    <p>нажмите, чтобы пройти <a href="#">тест</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-12">
-                    <div class="courses-wrapper course-radius-none mb-30">
-                        <div class="course-main-content clearfix">
-                            <div class="courses-content">
-                                <div class="courses-category-name">
-                                    <span>
-                                        <a href="#">Английский</a>
-                                    </span>
-                                </div>
-                                <div class="courses-heading">
-                                    <h1>Upper Intermediate</h1>
-                                </div>
-                                <div class="courses-para">
-                                    <p>нажмите, чтобы пройти <a href="#">тест</a></p>
+                                    <p>нажмите, чтобы пройти <a href="https://docs.google.com/forms/d/e/1FAIpQLSdp6GxfuQ2hO3zzFh90WfW0uSteDRXUuzVmO1BFT8RHco0V6w/viewform">тест</a></p>
                                 </div>
                             </div>
                         </div>
